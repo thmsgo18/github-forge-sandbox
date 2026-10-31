@@ -1,6 +1,6 @@
 {
   "name": "github-forge-sandbox",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tiny math helpers",
   "type": "module",
   "main": "src/math.js",
